@@ -37,7 +37,7 @@ Soy un apasionado de la tecnología, el desarrollo de software y la optimizació
 ## 📁 Proyectos Destacados en Desarrollo
 
 ### 🔹 Ecosistema DIRPOLES
-* **dirpoles (DIRPOLES_4):** Sistema de gestión centralizado con una arquitectura distribuida que separa las responsabilidades de negocio (`dirpoles_business`) y seguridad (`dirpoles_security`), construido como un monolito en PHP.
+* **DIRPOLES_4:** Sistema de gestión centralizado con una arquitectura distribuida que separa las responsabilidades de negocio (`dirpoles_business`) y seguridad (`dirpoles_security`), construido como un monolito en PHP.
 * **DIRPOLES_IA:** Microservicio basado en Python integrado al monolito principal. Utiliza Inteligencia Artificial para analizar los datos de los reportes extraídos de la base de datos y generar reportes estadísticos escritos de forma automatizada.
 * **DIRPOLES_APP:** Aplicación móvil complementaria desarrollada con React Native y Expo para llevar la gestión del ecosistema al bolsillo de los usuarios.
 
