@@ -67,7 +67,3 @@ Si deseas conversar sobre arquitectura de software, integración de IA, microser
 - 📸 **Instagram:** [@mroberth10_](https://instagram.com/mroberth10_)
 
 ---
-
-<p align="center">
-  <i>"El código limpio, el aislamiento de responsabilidades y la optimización constante son la clave para un sistema imparable."</i>
-</p>
