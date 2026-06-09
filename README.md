@@ -59,9 +59,8 @@ Además de mi enfoque en desarrollo backend tradicional y académico, colaboro a
 
 ---
 
-## 📬 Conéctate Conmigo
+## 📬 Contácto:
 
-Si deseas conversar sobre arquitectura de software, integración de IA, microservicios, o simplemente compartir ideas técnicas acompañadas de un buen café ☕, ¡estaré encantado de conectar!
 
 - 📧 **Correo Electrónico:** mroberth.alvarez@gmail.com
 - 📸 **Instagram:** [@mroberth10_](https://instagram.com/mroberth10_)
